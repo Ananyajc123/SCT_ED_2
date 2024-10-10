@@ -61,7 +61,6 @@ function recordLap() {
     }
 }
 
-// Event Listeners
 startBtn.addEventListener("click", startTimer);
 pauseBtn.addEventListener("click", pauseTimer);
 resetBtn.addEventListener("click", resetTimer);
